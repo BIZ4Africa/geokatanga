@@ -1,0 +1,4 @@
+[submodule "BIZ4Africa/biz4a-odoo"]
+	path = BIZ4Africa/biz4a-odoo
+	url = git@github.com:BIZ4Africa/biz4a-odoo.git
+	branch = odoo-13
